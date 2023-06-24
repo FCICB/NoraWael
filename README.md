@@ -48,16 +48,16 @@ It consists of a sequence of nodes, where each node contains the data and a refe
 
 ## this operations that user can do :
 
--initialize Queue to empty state 
--check if the Queue is empty or not
--check if the Queue is full or not
--enqueue item into queue
--dequeue item from queue
--return front element from queue
--return rear element from queue
--search for an item
--display list info 
--return length of the stack
+- initialize Queue to empty state 
+- check if the Queue is empty or not
+- check if the Queue is full or not
+- enqueue item into queue
+- dequeue item from queue
+- return front element from queue
+- return rear element from queue
+- search for an item
+- display list info 
+- return length of the stack
 
 # How to use application :
  
