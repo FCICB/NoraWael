@@ -2,9 +2,9 @@
 A data structure is a way of organizing and storing data in a computer's memory to efficiently perform operations on that data. It provides a systematic way to manage and manipulate data, allowing for efficient storage, retrieval, and modification of information.
 there is a logical data structure that can be implemented using physical data structure
 # logical data structure :
--linked list
--stack
--queue
+- linked list
+- stack
+- queue
 # physical data structure :
 - array based
 - linked based
